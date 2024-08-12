@@ -1,5 +1,7 @@
 # Malnutrition Dashboard 
 
+You can access the dashboard here https://malnutrition-dashboard.onrender.com/ or download the pbix file in this repo to check it out on Power BI desktop. 
+
 ## Problem Statement
 Malnutrition, in the context of undernutrition, represents a significant public health challenge, particularly in low to middle-income countries like Nigeria. Undernutrition is defined by specific criteria:
 
