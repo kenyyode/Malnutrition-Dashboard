@@ -1,0 +1,18 @@
+/* Styling for the graph containers */
+.graph-container {
+    height: 300px; /* Adjust height as needed */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+/* Styling for the map container */
+.map-container {
+    height: 500px; /* Adjust height as needed */
+}
+
+.kpi{
+   height: 60px;
+   text-align: center; 
+   margin: 2px;
+}
+
+
