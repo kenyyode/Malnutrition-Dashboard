@@ -25,6 +25,7 @@ dtype={'States': str})
 
 # Initialize the dash app 
 app = Dash(__name__)
+server = app.server 
 
 # Create the dropdown options
 state_options = [{'label': state, 'value': state} for state in df['State'].unique()]
